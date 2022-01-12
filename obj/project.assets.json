@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/seeSharp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
       "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/seeSharp/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectPath": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
       "packagesPath": "/Users/daniel_zamanillo/.nuget/packages/",
-      "outputPath": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/seeSharp/CatWorx.BadgeMaker/obj/",
+      "outputPath": "/Users/daniel_zamanillo/Desktop/vandy/continuation-classes/CatWorx.BadgeMaker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniel_zamanillo/.nuget/NuGet/NuGet.Config"
