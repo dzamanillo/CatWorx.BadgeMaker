@@ -2,7 +2,7 @@ namespace CatWorx.BadgeMaker
 {
     class Employee
     {
-        private readonly string FirstName;
+        private string FirstName;
         private readonly string LastName;
         private readonly int Id;
         private readonly string PhotoUrl;
